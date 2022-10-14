@@ -22,3 +22,4 @@ echo "Email Address: " . $email . "<br>";
 echo "Date of Birth: " . $birthDate . "<br>";
 echo "Gender: " . $gender . "<br>";
 echo "Country: " . $country . "<br>";
+print_r($form_data);
